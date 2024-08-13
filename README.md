@@ -11,3 +11,9 @@ Tareas
 ` git push origin main `
 5.Verificar los cambios
 
+---
+
+>En caso de querer descargar cambios utiliza
+` git clone git@github.com:Melodias1/PrimerRepositorio_CH45.git `
+![Image](https://github.com/fluidicon.png)
+
